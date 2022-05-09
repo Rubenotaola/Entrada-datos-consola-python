@@ -1,5 +1,5 @@
 # Al ejecutar el programa nos da como resultado la ruta absoluta
-# en la que se encuentra como primer output. Hay que tener esto claro
+# en la que se encuentra, como primer output. Hay que tener esto claro
 # para entender los índices que le vamos a ir colocando al código.
 
 import sys
